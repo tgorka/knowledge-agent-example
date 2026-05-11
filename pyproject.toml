@@ -1,0 +1,37 @@
+[project]
+name = "knowledge-agent"
+version = "0.1.0"
+description = "Self-evolving graph agent for FSM (Neo4j + LangChain + OpenRouter)"
+authors = [
+    { name = "Tomasz Gorka", email = "tomasz@gorka.org.pl" }
+]
+license = "CC-BY-NC-4.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.18",
+    "langchain-community>=0.4.1",
+    "langchain-neo4j>=0.9.0",
+    "langchain-openai>=1.2.1",
+    "neo4j>=6.2.0",
+    "pydantic>=2.13.4",
+    "pydantic-settings>=2.14.1",
+    "python-dotenv>=1.2.2",
+    "rich>=15.0.0",
+]
+
+[project.scripts]
+knowledge-agent = "knowledge_agent:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.11.4,<0.12.0"]
+build-backend = "uv_build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
