@@ -1,0 +1,20 @@
+README.md
+  s_dac8edb2ff24cb::t_cca2b11468fc02 23-32,34-35
+  s_dac8edb2ff24cb::t_251704bd0b4b5f 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "c63ef385bdb5a33f7ba780c2e6a381cbe5c9034d",
+  "prompts": {},
+  "sessions": {
+    "s_dac8edb2ff24cb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9825d581-ff4f-49ae-9e99-b6695804bb01",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tomasz Gorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
