@@ -15,9 +15,6 @@ that demonstrates:
 5. All of the above exposed as LangChain **skills (tools)** so an agent can
    compose them turn-by-turn in an interactive chat.
 
-The full brief lives in `_bmad-output/task.md`; the user-facing requirements
-in `_bmad-output/requiremets.md`.
-
 ## Demo video
 
 A 13-minute walkthrough covering the architecture, all twelve task questions,
