@@ -20,11 +20,19 @@ that demonstrates:
 A 13-minute walkthrough covering the architecture, all twelve task questions,
 and the human-in-the-loop schema-evolution moment.
 
-[![Knowledge Agent demo - click to watch on YouTube](demo_thumbnail.png)](https://youtu.be/rkGu-SL_Rlk)
-
-Watch on YouTube: <https://youtu.be/rkGu-SL_Rlk>. An offline copy ships with the
-repo as [`final_demo.mp4`](final_demo.mp4) (1920x1080, ~27 MB) if you'd rather
-play it locally.
+<p align="center">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/rkGu-SL_Rlk"
+    title="Knowledge Agent demo (YouTube)"
+    width="100%"
+    height="540"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+    Watch on YouTube: <a href="https://youtu.be/rkGu-SL_Rlk">https://youtu.be/rkGu-SL_Rlk</a>
+  </iframe>
+</p>
 
 What's in it:
 
