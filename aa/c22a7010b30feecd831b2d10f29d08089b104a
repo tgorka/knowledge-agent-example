@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "aac22a7010b30feecd831b2d10f29d08089b104a",
+  "prompts": {},
+  "humans": {
+    "h_31d1ae2bb76d10": {
+      "author": "Tomasz Gorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
