@@ -1,0 +1,136 @@
+src/knowledge_agent/pipeline.py
+  s_dac8edb2ff24cb::t_4d2750a21757c2 1-4,32-36,39-40,42-45,47,55,57-120,139-141,154,159,164-168,170-176,178-181,184-187,190-193,195-196,198-209,211-215,217-225,240-241,260-263,266-267,277,290-292,297-300,302-320,325,335-338,340,342-364,366,373-374,377-380,411,417-418,441-442,445,451,453-455
+  s_dac8edb2ff24cb::t_1d725806aeba47 194
+  s_dac8edb2ff24cb::t_0b6d32daee96af 5-31,37-38,46,49-54,56,121-138,142-153,169,177,182-183,188-189,197,210,216,226-239,242-259,264-265,268-276,278-289,293-296,301,321-324,339,341,365,375-376,381-406,410,412-415,420-440,443-444,446-450,452
+  s_dac8edb2ff24cb::t_0825012582bcad 407-409,416,419
+  s_dac8edb2ff24cb::t_454be15e8d6a9f 155-158,160-163
+  s_dac8edb2ff24cb::t_580bb48271a156 41
+  s_dac8edb2ff24cb::t_6c42e8482f2f8f 326-334
+  s_dac8edb2ff24cb::t_696adbac0d95f8 48
+  s_dac8edb2ff24cb::t_0538c9aa8dca8c 367-372
+src/knowledge_agent/__init__.py
+  s_dac8edb2ff24cb::t_b67123eeeff425 5,14
+  s_dac8edb2ff24cb::t_57beec215ac580 19
+  s_dac8edb2ff24cb::t_eb6bb0a72c7d47 1-2,15-18,20-22
+  s_dac8edb2ff24cb::t_1530d5a8f3ac7c 3-4
+  s_dac8edb2ff24cb::t_7f52bf817785b5 6-13
+README.md
+  s_dac8edb2ff24cb::t_e08ff3a323da51 1-8,10,13-14,17-20,46-47,55-57,76-77,96-97,100-104,106,135-144,146,149-150,162-163,165-166,168-171,177,179-180,183,187,189,197-198,200-202,240-253,259-261,263-265,267,271-274,302,304-306,308-309,313-315,326
+  s_dac8edb2ff24cb::t_a4aef0b0f25919 316-325,327
+  s_dac8edb2ff24cb::t_8010cd49627113 21-45
+  s_dac8edb2ff24cb::t_3be14aed979fa2 15-16,49,107-109,111-115,117,119,122,124-134,158,164,172-175,178,182,185,188,190-193,195-196,238-239,262,268-270
+  s_dac8edb2ff24cb::t_df79bd98129fe2 9,11-12,48,50-54,58-75,78-95,98-99,105,110,116,118,120-121,123,145,147-148,151-157,159-161,167,176,181,184,186,194,199,203-237,254-258,266,275-301,303,307,310-312
+src/knowledge_agent/cli.py
+  s_dac8edb2ff24cb::t_1a317c416b446b 82-103,111-128,140-182
+  s_dac8edb2ff24cb::t_0c624c50b27554 214-216
+  s_dac8edb2ff24cb::t_1155fb304a88db 104-110
+  s_dac8edb2ff24cb::t_3edba39ba85596 195,199-200,208,210,212,221,251-254
+  s_dac8edb2ff24cb::t_977286ea7e2833 6,10-13,16,23-81,213,217,219-220,233,235-243,245-246
+  s_dac8edb2ff24cb::t_4586bcbdf1cc3c 184-189,204-207
+  s_dac8edb2ff24cb::t_4e0ef94968b607 201
+  s_dac8edb2ff24cb::t_fb712baf971dfa 218,222-226
+  s_dac8edb2ff24cb::t_94a40312a7e321 129-139
+  s_dac8edb2ff24cb::t_fc20870dea1a03 1-5,7-9,14-15,17-22,183,190-194,196-198,202-203,227-232,234,244,247,249-250,255-256
+  s_dac8edb2ff24cb::t_75e5ad4fd94602 209,211
+  s_dac8edb2ff24cb::t_32025414ba6c4c 248
+src/knowledge_agent/qa.py
+  s_dac8edb2ff24cb::t_883dbe1810c176 1-143
+LICENSE
+  s_dac8edb2ff24cb::t_200728be0699b8 1-419
+tests/test_make_content_id.py
+  s_dac8edb2ff24cb::t_455f32dd75576e 1-34
+src/knowledge_agent/repositories/session.py
+  s_dac8edb2ff24cb::t_4c1c6a0b96c763 49-51
+  s_dac8edb2ff24cb::t_c700e92f1167c0 43,52-58,63-64,71,96-110
+  s_dac8edb2ff24cb::t_e4463ce6ef510b 1-17,19-22,28-30,73-95
+  s_dac8edb2ff24cb::t_a1481a45a2177a 18,23-27,31-39,66-67,69
+  s_dac8edb2ff24cb::t_43c55a12ae77e7 40-42,44-48,59-62,65,68,70,72
+.env.example
+  s_dac8edb2ff24cb::t_36ef5961049683 2-13,15-17,19,21-26,29
+  h_31d1ae2bb76d10 67-68
+  s_dac8edb2ff24cb::t_fb6abbff361be7 1,14,18,20,27-28,30-51,55-57
+  s_dac8edb2ff24cb::t_fcd332c00da93e 62-63,65-66
+  s_dac8edb2ff24cb::t_a120f51b6e0ed9 64
+  s_dac8edb2ff24cb::t_31a0194744aa13 52-54,58-61
+src/knowledge_agent/repositories/schema_repo.py
+  s_dac8edb2ff24cb::t_3ea62702580305 1-122
+src/knowledge_agent/facade.py
+  s_dac8edb2ff24cb::t_6bac10b0aa814b 1-5,12-20,25-28,32-33,37-42,48,50-51,54,59-67,70,73-76
+  s_dac8edb2ff24cb::t_123775b241427a 6-11,21-24,29-31,34-36,43-47,49,52-53,55-58,68-69,71-72
+.gitignore
+  s_dca24fcf389143::t_293d9669fb4a6b 1-262
+  h_31d1ae2bb76d10 263
+src/knowledge_agent/chat.py
+  s_dac8edb2ff24cb::t_22859555d34626 7-17,22-25,28-29,32,56-57,60-62,64-77,85-93,115,119,121-188,190,206,208,210-213,226-231
+  s_dac8edb2ff24cb::t_eb60d4eaab2bf5 1-6,18-21,26-27,30-31,33-55,58-59,63,78-84,94-114,116-118,120,189,191-205,207,209,214-225
+src/knowledge_agent/prov.py
+  s_dac8edb2ff24cb::t_b75865bcc5fdf7 1-3,13-41,44,49-110
+  s_dac8edb2ff24cb::t_60d8911dded7b3 4-12
+  s_dac8edb2ff24cb::t_7a3aabd8bb2e25 42-43,45-48
+src/knowledge_agent/identifiers.py
+  s_dac8edb2ff24cb::t_6502ce9acaf69d 1-59
+pyproject.toml
+  s_dac8edb2ff24cb::t_bcb0c7fd78341a 8-9
+  s_dac8edb2ff24cb::t_6970f6f008dc01 26-30,34-37
+  s_dac8edb2ff24cb::t_b4455ae38c7221 11-21
+  s_dac8edb2ff24cb::t_57beec215ac580 1-7,10,22-25,31-33
+scripts/demo.py
+  s_dac8edb2ff24cb::t_15d0e44186bdac 2-6,8-10,12-22
+  s_dac8edb2ff24cb::t_d1e2426485013c 1,7,11
+src/knowledge_agent/skills.py
+  s_dac8edb2ff24cb::t_8fa3de3b695229 1-6,8-15,17-18,20,24-33,35-36,38-55,58,60-64,68-69,71-84,87-93,97,99-100,102-104,111-127,135-136,180,182-210,212-214,216,226,228-236,244-248
+  s_dac8edb2ff24cb::t_f869df50d3c735 237-243,249-251,257-260
+  s_dac8edb2ff24cb::t_5b29b84cf4ba43 7,16,19,21-23,34,37,56-57,59,65-67,70,85-86,94-96,98,101,105-110,128-134,137-179,181,211,215,217-225,227,252-256,261-262
+src/knowledge_agent/repositories/query_repo.py
+  s_dac8edb2ff24cb::t_76bddd0b2ee6e8 1-56
+src/knowledge_agent/repositories/prov_repo.py
+  s_dac8edb2ff24cb::t_02abfc6e930005 1-74
+src/knowledge_agent/repositories/__init__.py
+  s_dac8edb2ff24cb::t_a7a3c56d5f4b38 1-26
+src/knowledge_agent/demo.py
+  s_dac8edb2ff24cb::t_d4b90d8ae2fad4 91
+  s_dac8edb2ff24cb::t_e0d9c2993f6f94 1-44,51-55,69-80,83-86,92,97-100,103-108
+  s_dac8edb2ff24cb::t_3b3116603a9f43 56-67
+  s_dac8edb2ff24cb::t_8332a45204347e 45-50,68,81-82,87-90,93-96,101-102
+tests/test_safe_identifiers.py
+  s_dac8edb2ff24cb::t_2c407c429fb7eb 1-51
+src/knowledge_agent/config.py
+  s_dac8edb2ff24cb::t_17826e0938447c 35-39,48
+  s_dac8edb2ff24cb::t_6886828c975d94 43
+  s_dac8edb2ff24cb::t_51930615fa139f 1-34,49-58
+  s_dac8edb2ff24cb::t_8743563267f3c6 40-42,44-47
+src/knowledge_agent/llm.py
+  s_dac8edb2ff24cb::t_70c7f5427cc729 1-5,11-19,21,23-24,26-27,29-33
+  s_dac8edb2ff24cb::t_93559d4a392584 6
+  s_dac8edb2ff24cb::t_2acd053fcf9e57 7-10,22,28
+  s_dac8edb2ff24cb::t_16403bb0be563c 20,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "8054fee0f59d3f374a3f4c75e18f35959ee5a3cf",
+  "prompts": {},
+  "humans": {
+    "h_31d1ae2bb76d10": {
+      "author": "Tomasz Gorka <tomasz@gorka.org.pl>"
+    }
+  },
+  "sessions": {
+    "s_dac8edb2ff24cb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9825d581-ff4f-49ae-9e99-b6695804bb01",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tomasz Gorka <tomasz@gorka.org.pl>"
+    },
+    "s_dca24fcf389143": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c1472bb2-c509-4dc8-af85-2ada5d3e8462",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tomasz Gorka <tomasz@gorka.org.pl>"
+    }
+  }
+}
