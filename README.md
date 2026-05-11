@@ -23,15 +23,13 @@ in `_bmad-output/requiremets.md`.
 A 13-minute walkthrough covering the architecture, all twelve task questions,
 and the human-in-the-loop schema-evolution moment.
 
-<video src="final_demo.mp4" controls width="100%" poster="docs/demo_thumbnail.png">
-  Inline video isn't supported by this renderer. Open
-  <a href="final_demo.mp4"><code>final_demo.mp4</code></a> directly, or click
-  the poster below.
-</video>
+[![Knowledge Agent demo - click to watch on YouTube](demo_thumbnail.png)](https://youtu.be/rkGu-SL_Rlk)
 
-[![Knowledge Agent demo - poster frame](docs/demo_thumbnail.png)](final_demo.mp4)
+Watch on YouTube: <https://youtu.be/rkGu-SL_Rlk>. An offline copy ships with the
+repo as [`final_demo.mp4`](final_demo.mp4) (1920x1080, ~27 MB) if you'd rather
+play it locally.
 
-What's in it (1920x1080, ~27 MB):
+What's in it:
 
 | Range | Beat | Content |
 |---|---|---|
@@ -40,8 +38,6 @@ What's in it (1920x1080, ~27 MB):
 | 06:15 - 08:15 | 10-11 | Part 2 schema proposal + HITL approval |
 | 08:15 - 12:00 | 12-16 | Six cross-schema questions |
 | 12:00 - 13:02 | 17 | Wrap-up + repo link |
-
-
 
 ## Stack
 
@@ -317,10 +313,7 @@ Both run with no DB and no LLM credentials.
 Copyright (c) 2026 Tomasz Gorka.
 
 This work is licensed under the [Creative Commons
-Attribution-NonCommercial 4.0 International License][cc-by-nc] (SPDX:
-`CC-BY-NC-4.0`). You are free to share and adapt the material for
-**non-commercial** purposes with attribution. Commercial use requires a
-separate agreement with the copyright holder.
+Attribution-NonCommercial 4.0 International License][cc-by-nc]
 
 Full text in [`LICENSE`](LICENSE).
 
